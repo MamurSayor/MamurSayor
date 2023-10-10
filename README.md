@@ -23,5 +23,6 @@ I'm Mamur Sayor, a passionate Robotic and IoT enthusiast and a learner in the fi
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out for any collaborations or discussions.
 
-
-<img src="https://tenor.com/bvRkV.gif" alt="Your GIF or Animation" />
+<html>
+<img src="D:\Black Hole\BDU RC\logo\BDU Robotics Club.jpg" alt="test" height="300" width="300" />
+</html>
