@@ -1,16 +1,24 @@
-### Hi there 👋
+<!-- Hi there 👋 -->
 
+# Welcome to my GitHub Profile!
 
-**MamurSayor/MamurSayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mamur Sayor, a passionate AI enthusiast and a learner in the field of Networking.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
 
-- 🔭 I’m currently working on Ai
-- 🌱 I’m currently learning Networking
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Working on AI-based projects to make the world smarter.
+- Exploring the depths of Networking to enhance my skills.
 
+## 🌱 Learning
+
+- Currently learning various aspects of Networking to stay updated with the latest trends and technologies.
+
+## 💬 Contact Me
+
+- You can reach me through [Email](1901029@iot.bdu.ac.bd) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mamur-sayor/)).
+
+## ⚡ Fun Fact
+
+- I believe in the power of open-source collaboration and continuous learning.
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for any collaborations or discussions.
