@@ -15,7 +15,7 @@ I'm Mamur Sayor, a passionate AI enthusiast and a learner in the field of Networ
 
 ## 💬 Contact Me
 
-- You can reach me through [Email](1901029@iot.bdu.ac.bd) or connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mamur-sayor/)).
+- You can reach me through [Email](1901029@iot.bdu.ac.bd) or connect with me on [LinkedIn](https://www.linkedin.com/in/mamur-sayor/).
 
 ## ⚡ Fun Fact
 
