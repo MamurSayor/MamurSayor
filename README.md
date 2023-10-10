@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Profile!
 
-I'm Mamur Sayor, a passionate AI enthusiast and a learner in the field of Networking.
+I'm Mamur Sayor, a passionate Robotic and IoT enthusiast and a learner in the fields of AI, ML, DL.
 
 ## 🔭 Current Projects
 
@@ -11,7 +11,7 @@ I'm Mamur Sayor, a passionate AI enthusiast and a learner in the field of Networ
 
 ## 🌱 Learning
 
-- Currently learning various aspects of Networking to stay updated with the latest trends and technologies.
+- Currently learning various aspects of AI, ML, and DL to stay updated with the latest trends and technologies.
 
 ## 💬 Contact Me
 
